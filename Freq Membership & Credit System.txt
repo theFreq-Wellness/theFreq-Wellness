@@ -1,0 +1,111 @@
+Here's the next slide:
+
+Slide 3: The Freq Membership & Credit System
+
+Slide Title: Personalized Experiences, Rewarding Loyalty
+
+Font: Raleway (Bold), sized for prominence
+
+Color: Gold (#FFD700)
+
+Placement: Top center of the slide
+
+Text Content:
+
+Headline: Personalized Experiences, Rewarding Loyalty
+* Font: Open Sans (Semi-Bold), slightly larger size for emphasis
+* Color: Light Silver (#d0d0d0)
+* Placement: Directly below the Title
+
+Introduction: "The Freq utilizes a unique membership and credit system that rewards our loyal guests and provides customized access to our diverse offerings."
+* Font: Open Sans (Regular)
+* Color: Light Silver (#d0d0d0)
+* Placement: Directly below the Headline
+
+Membership Tiers: (To be displayed as a table or infographic-style layout. See details below)
+
+"Frequency Initiate"
+
+Basic membership offering access to the first two floors (Tranquil Sanctuary and Flow State Lab), along with 50 monthly credits and 5% off merchandise.
+
+Font: Raleway (Semi-Bold)
+
+Color: Electric Teal (#00FFFF)
+
+"Creative Catalyst"
+
+Enhanced membership with access to the first two floors, 100 monthly credits, 10% off merchandise, and priority booking for events.
+
+Font: Raleway (Semi-Bold)
+
+Color: Electric Teal (#00FFFF)
+
+"Sonic Navigator"
+
+Premium membership with access to all three public floors, 150 monthly credits, 15% off merchandise, free guest passes, and exclusive member events.
+
+Font: Raleway (Semi-Bold)
+
+Color: Electric Teal (#00FFFF)
+
+"Apex Alchemist"
+
+The highest level of membership, includes full access, 200 monthly credits, 20% off merchandise, free guest passes, access to the Intimate Exploration Space, VIP status at all events, and exclusive early access.
+
+Font: Raleway (Semi-Bold)
+
+Color: Electric Teal (#00FFFF)
+
+Credit System: "Members can purchase additional credits at any time and all credits carry over month-to-month. Credits are the standard currency used to experience the various sessions, installations, and treatments available in each level."
+* Font: Open Sans (Regular)
+* Color: Light Silver (#d0d0d0)
+
+Placement: Below Membership Tier information
+
+Credit Value: "$1 USD = 1 Credit"
+* Font: Open Sans (Semi-Bold)
+* Color: Electric Teal (#00FFFF)
+* Placement: Below Credit System Text
+
+Point System: "For each $1 spent on credits, members will receive 1 point"
+* Font: Open Sans (Regular)
+* Color: Light Silver (#d0d0d0)
+
+Placement: Below Credit Value Information
+
+Point Redemption: "Points can be redeemed for free sessions, upgrades, merchandise, exclusive access to the Intimate Exploration Zone, member-only events, and much more."
+* Font: Open Sans (Regular)
+* Color: Light Silver (#d0d0d0)
+
+Placement: Below Point System Text
+
+Walk-In Access: "Visitors can enjoy The Freq by purchasing credits at our standard day rate. They can access the first 3 levels. They do not accrue points nor do they have access to the exclusive 'Intimate Exploration Space.'"
+* Font: Open Sans (Regular)
+* Color: Light Silver (#d0d0d0)
+
+Placement: Below Point Redemption Text
+
+Emphasis: "This membership system creates an incentivized model, encouraging frequent visits, deepening brand loyalty, and providing a sustainable revenue stream for The Freq."
+* Font: Open Sans (Regular), Italicized for emphasis
+* Color: Light Silver (#d0d0d0)
+* Placement: Bottom of slide, below all information.
+
+Visual Description:
+
+Layout: A visually engaging infographic that has a clear hierarchical design that is easy to follow.
+
+Membership Tiers: Each membership tier will be displayed as a separate section of the infographic, with a corresponding icon for each level. The icons should be simple but stylish, and should reflect the brand aesthetic. (e.g., a simple frequency symbol for "Frequency Initiate", a stylized brain for "Creative Catalyst", sound waves for "Sonic Navigator", and a stylized symbol for transformation for "Apex Alchemist"). The text and information for each tier will be placed beneath the title of the membership, with easy to read text.
+
+Credit System: The credit system will be displayed in a clear and simple box with the text information and the specific value below it.
+
+Point System: The point system will be displayed in a clear and simple box with the text information and the specific use of the point system below it.
+
+Color Scheme: The infographic will use the brand's color palette, with Electric Teal used to highlight important text and numbers. All other text will be in Light Silver against a dark background.
+
+Instructions for Copying and Pasting:
+
+Copy all of the text into your presentation slide.
+
+Create the infographic based on the text provided and the visual description. The key here is that the information is presented clearly, with a clear visual hierarchy. The title should be at the top of the slide, followed by the headline. Then, create the infographic with a clear hierarchy. The "Emphasis" text should be placed at the very bottom of the slide.
+
+The text under each heading should be formatted according to the information above.
