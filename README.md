@@ -15,7 +15,10 @@ The Freq is a revolutionary wellness and entertainment center that leverages pre
 - **/presentations**: Slides and media files for presentations.
 - **/misc**: Miscellaneous or temporary files.
 
-## **Key Documents**
+<iframe src="https://gamma.app/embed/79rsh2mkvzvvhns" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="The Freq: The Science of Sensation"></iframe>
+
+
+## **Key Documents*
 ### Research
 - [Comprehensive Overview of Research Findings for theFreq](./docs/Comprehensive%20Overview%20of%20Research%20Findings%20for%20theFreq.txt)
 - [The Science Behind Frequency-Based Wellness](./assets/The-Science-Behind-Frequency-Based-Wellness.png)
@@ -36,7 +39,8 @@ The Freq is a revolutionary wellness and entertainment center that leverages pre
 - [Welcome to theFreq](./presentations/Welcom-to-theFreq.pdf)
 - [The Freq: Where Sensation Meets Innovation](./presentations/The%20Freq_%20Where%20Sensation%20Meets%20Innovation.html)
 - [Project The Freq - Complete Printout](./presentations/Project%20The%20Freq%20-%20Complete%20Printout.pdf)
-<iframe src="https://gamma.app/embed/79rsh2mkvzvvhns" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="The Freq: The Science of Sensation"></iframe>
+
+
 ## **Team**
 - **Marc Tuinier** - Founder and Visionary
 
