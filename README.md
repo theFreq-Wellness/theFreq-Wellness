@@ -20,7 +20,7 @@ The Freq is a revolutionary wellness and entertainment center that leverages pre
 
 ## **Key Documents*
 ### Research
-- [Comprehensive Overview of Research Findings for theFreq](./docs/Comprehensive%20Overview%20of%20Research%20Findings%20for%20theFreq.txt)
+- [Comprehensive Overview of Research Findings for theFreq](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Comprehensive%20Overview%20of%20Research%20Findings%20for%20theFreq.txt)
 - [The Science Behind Frequency-Based Wellness](./assets/The-Science-Behind-Frequency-Based-Wellness.png)
 - [The Freq Research Summary](./docs/The-Freq-Research-Summary.pdf)
 
