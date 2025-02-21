@@ -21,13 +21,12 @@ The Freq is a revolutionary wellness and entertainment center that leverages pre
 ## **Key Documents*
 ### Research
 - [Comprehensive Overview of Research Findings for theFreq](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Comprehensive%20Overview%20of%20Research%20Findings%20for%20theFreq.txt)
-- [The Science Behind Frequency-Based Wellness](./assets/The-Science-Behind-Frequency-Based-Wellness.png)
-- [The Freq Research Summary](./docs/The-Freq-Research-Summary.pdf)
-
+- [The Science Behind Frequency-Based Wellness](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The-Science-Behind-Frequency-Based-Wellness.png)
+- [The Freq Research Summary](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The-Science-Behind-Frequency-Based-Wellness.png)
 ### Business & Strategy
 - [Birthing theFreq: A Realistic Plan](./docs/Birthing%20theFreq_%20A%20Realistic%20Plan)
-- [Investor Outreach](./docs/InvestorOutreach.txt)
-- [Freq Membership & Credit System](./docs/Freq%20Membership%20%26%20Credit%20System.txt)
+- [Investor Outreach](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/InvestorOutreach.txt)
+- [Freq Membership & Credit System](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Freq%20Membership%20%26%20Credit%20System.txt)
 
 ### Branding & Design
 - [Branding Mission Statement](./docs/brandingmissionstatement.txt)
