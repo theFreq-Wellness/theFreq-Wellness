@@ -1,22 +1,5 @@
 # theFreq: Where Innovation Meets Sensation
-
-## **Overview**
-The Freq is a revolutionary wellness and entertainment center that leverages precisely calibrated frequencies (sound, light, and vibration) to create transformative and personalized experiences. This repository contains the core documentation, research, and (eventually) code for theFreq project.
-
-## **Project Goals**
-- Provide a unique, multi-sensory experience that promotes relaxation, creativity, social connection, and personal growth.
-- Utilize cutting-edge technology and scientific principles to deliver safe and effective frequency-based interventions.
-- Build a sustainable and scalable business model that caters to a diverse target audience.
-- Become a leader in the emerging field of frequency-based wellness and entertainment.
-
-## **Repository Structure**
-- **/docs**: Comprehensive documentation, research summaries, and branding guidelines.
-- **/assets**: Branding materials, images, and design assets.
-- **/presentations**: Slides and media files for presentations.
-- **/misc**: Miscellaneous or temporary files.
-
-<iframe src="https://gamma.app/embed/79rsh2mkvzvvhns" style="width: 700px; max-width: 100%; height: 450px" allow="fullscreen" title="The Freq: The Science of Sensation"></iframe>
-
+https://gamma.app/embed/79rsh2mkvzvvhns"
 
 ## **Key Documents*
 ### Research
