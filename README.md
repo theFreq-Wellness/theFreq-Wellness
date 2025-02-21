@@ -24,20 +24,20 @@ The Freq is a revolutionary wellness and entertainment center that leverages pre
 - [The Science Behind Frequency-Based Wellness](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The-Science-Behind-Frequency-Based-Wellness.png)
 - [The Freq Research Summary](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The-Science-Behind-Frequency-Based-Wellness.png)
 ### Business & Strategy
-- [Birthing theFreq: A Realistic Plan](./docs/Birthing%20theFreq_%20A%20Realistic%20Plan)
+- [Birthing theFreq: A Realistic Plan](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Birthing%20theFreq_%20A%20Realistic%20Plan)
 - [Investor Outreach](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/InvestorOutreach.txt)
 - [Freq Membership & Credit System](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Freq%20Membership%20%26%20Credit%20System.txt)
 
 ### Branding & Design
-- [Branding Mission Statement](./docs/brandingmissionstatement.txt)
-- [Brand Values](./docs/brandvalues.txt)
-- [The Freq Wellness Center](./assets/The-Freq-Wellness-Center.png)
-- [The Freq Experience: A Multi-Dimensional Journey](./assets/The-Freq-Experience-A-Multi-Dimensional-Journey.png)
+- [Branding Mission Statement](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/brandingmissionstatement.txt)
+- [Brand Values](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/brandvalues.txt)
+- [The Freq Wellness Center](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The-Freq-Wellness-Center.png)
+- [The Freq Experience: A Multi-Dimensional Journey](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The-Freq-Experience-A-Multi-Dimensional-Journey.png)
 
 ### Presentations & Media
-- [Welcome to theFreq](./presentations/Welcom-to-theFreq.pdf)
-- [The Freq: Where Sensation Meets Innovation](./presentations/The%20Freq_%20Where%20Sensation%20Meets%20Innovation.html)
-- [Project The Freq - Complete Printout](./presentations/Project%20The%20Freq%20-%20Complete%20Printout.pdf)
+- [Welcome to theFreq](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Welcom-to-theFreq.pdf)
+- [The Freq: Where Sensation Meets Innovation](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The%20Freq_%20Where%20Sensation%20Meets%20Innovation.html)
+- [Project The Freq - Complete Printout](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Project%20The%20Freq%20-%20Complete%20Printout.pdf)
 
 
 ## **Team**
