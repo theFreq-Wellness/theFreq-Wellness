@@ -1,7 +1,7 @@
 # theFreq: Where Innovation Meets Sensation
 
 ![Gamma Link](https://gamma.app/embed/79rsh2mkvzvvhns)
-
+[The Freq: A New Frontier in Wellbeing](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The-Freq-A-New-Frontier-in-Wellbeing.pdf)
 ## **Key Documents**
 
 ### Research
@@ -12,6 +12,7 @@
 ### Business & Strategy
 - [Birthing theFreq: A Realistic Plan](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Birthing%20theFreq_%20A%20Realistic%20Plan)
 - [Investor Outreach](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/InvestorOutreach.txt)
+
 - [Freq Membership & Credit System](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Freq%20Membership%20%26%20Credit%20System.txt)
 
 ### Branding & Design
