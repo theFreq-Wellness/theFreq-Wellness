@@ -1,11 +1,14 @@
 # theFreq: Where Innovation Meets Sensation
-https://gamma.app/embed/79rsh2mkvzvvhns"
 
-## **Key Documents*
+![Gamma Link](https://gamma.app/embed/79rsh2mkvzvvhns)
+
+## **Key Documents**
+
 ### Research
 - [Comprehensive Overview of Research Findings for theFreq](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Comprehensive%20Overview%20of%20Research%20Findings%20for%20theFreq.txt)
 - [The Science Behind Frequency-Based Wellness](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The-Science-Behind-Frequency-Based-Wellness.png)
 - [The Freq Research Summary](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The-Science-Behind-Frequency-Based-Wellness.png)
+
 ### Business & Strategy
 - [Birthing theFreq: A Realistic Plan](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Birthing%20theFreq_%20A%20Realistic%20Plan)
 - [Investor Outreach](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/InvestorOutreach.txt)
@@ -21,7 +24,6 @@ https://gamma.app/embed/79rsh2mkvzvvhns"
 - [Welcome to theFreq](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Welcom-to-theFreq.pdf)
 - [The Freq: Where Sensation Meets Innovation](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/The%20Freq_%20Where%20Sensation%20Meets%20Innovation.html)
 - [Project The Freq - Complete Printout](https://github.com/theFreq-Wellness/theFreq-Wellness/blob/main/Project%20The%20Freq%20-%20Complete%20Printout.pdf)
-
 
 ## **Team**
 - **Marc Tuinier** - Founder and Visionary
